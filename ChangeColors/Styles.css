@@ -1,0 +1,41 @@
+.circle {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    transition: background-color 0.5s ease-in-out;
+   
+   }
+   .circle-red {
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: background-color 0.5s ease-in-out;
+    outline: none;
+   }
+   .circle-green {
+    border: 1px solid green;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    transition: background-color 0.5s ease-in-out;
+    outline: none;
+   }
+   .circle-yellow {
+    border: 1px solid rgb(255, 94, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(212, 73, 17);
+    transition: background-color 0.5s ease-in-out;
+    outline: none;
+   }
+   .line{
+    border: 1px solid black;
+    height: 100px;
+    width: 20px;
+   }
