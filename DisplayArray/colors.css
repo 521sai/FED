@@ -1,0 +1,14 @@
+div{
+    align-items: center;
+}
+table{
+    border-top: 2px;
+    border-radius: 6px;
+}
+th{
+    background-color: chocolate;
+    text-decoration: double;
+}
+td{
+    background-color: chartreuse;
+}
